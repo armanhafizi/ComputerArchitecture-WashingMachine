@@ -1,0 +1,1 @@
+The implementation of a simple washing machine program for hot and cold water in Verilog (and Quartus). Feel free to contact me for more information.
